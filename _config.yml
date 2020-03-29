@@ -73,7 +73,7 @@ include:
 
 # Everything below here should be left alone. Modifications may break fastpages
 future: true
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-gist
